@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="javalog" type="PLAIN_TEXT" />
+      <mapping pattern="sms" type="PLAIN_TEXT" />
+      <mapping pattern="sendsms" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="123123" type="PLAIN_TEXT" />
+      <mapping pattern="restlog" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

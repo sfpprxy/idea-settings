@@ -1,0 +1,16 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="ActivateMavenProjectsToolWindow">
+        <abbreviation name="mp" />
+      </action>
+      <action id="Vcs.UpdateProject">
+        <abbreviation name="asda" />
+      </action>
+      <action id="Diff.ShowDiff" />
+      <action id="Maven_8a6478d6tenante633143eclean">
+        <abbreviation name="mvn clean" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
