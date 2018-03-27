@@ -4,7 +4,7 @@
     <property name="created">2017-08-04T11:50:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2018-03-27T17:16:24</property>
+    <property name="modified">2018-03-27T18:02:50</property>
     <property name="originalScheme">MyScheme-all-green</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -562,6 +562,7 @@
         <option name="FOREGROUND" value="c5c8c6" />
       </value>
     </option>
+    <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
