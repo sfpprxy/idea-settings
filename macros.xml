@@ -10,5 +10,14 @@
       <action id="EditorDown" />
       <action id="EditorLeft" />
     </macro>
+    <macro name="StringToLong Field">
+      <action id="ChangeTypeSignature" />
+      <action id="EditorRight" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="76:1">L</typing>
+      <action id="EditorChooseLookupItem" />
+      <action id="GotoAction" />
+      <shortuct text="ENTER" />
+    </macro>
   </component>
 </application>
