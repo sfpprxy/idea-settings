@@ -88,7 +88,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="vlist" value="io.vavr.collection.List" description="io.vavr.collection.List" toReformat="false" toShortenFQNames="true">
+  <template name="vlist" value="io.vavr.collection.List.ofAll($END$)" description="io.vavr.collection.List()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
