@@ -22,6 +22,9 @@
     <keyboard-shortcut first-keystroke="meta f6" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="c" />
+  </action>
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="DebugClass">
