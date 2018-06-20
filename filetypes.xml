@@ -4,6 +4,7 @@
       <mapping pattern="javalog" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="数据模板表" type="PLAIN_TEXT" />
+      <mapping pattern=".a" type="PLAIN_TEXT" />
       <mapping pattern="数据接入实例参数" type="PLAIN_TEXT" />
       <mapping pattern="数据模型表" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
