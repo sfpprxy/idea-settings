@@ -4,4 +4,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="logz" value="console.log('zz',$END$)" description="console.log('zz', )" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
