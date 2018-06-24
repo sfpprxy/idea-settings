@@ -2,6 +2,8 @@
   <component name="ScalaApplicationSettings">
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+    <option name="RENAME_SEARCH_IN_NON_CODE_FILES" value="true" />
   </component>
   <component name="TypeAwareHighlightingApplicationState">
     <option name="SUGGEST_TYPE_AWARE_HIGHLIGHTING_ENABLED" value="true" />
