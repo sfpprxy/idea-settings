@@ -380,6 +380,18 @@
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_map" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_slice" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_array" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="GoHiddenTemplate" />
           <option name="key" value="go_lang_var" />
         </TemplateKey>
         <TemplateKey>

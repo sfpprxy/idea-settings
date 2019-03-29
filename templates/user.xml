@@ -21,7 +21,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="s" value="String " description="String" toReformat="false" toShortenFQNames="true">
+  <template name="st" value="String " description="String" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -47,7 +47,8 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="al" value="new ArrayList&lt;&gt;();" description="new ArrayList&lt;&gt;()" toReformat="false" toShortenFQNames="true">
+  <template name="al" value="var $al$ = new ArrayList&lt;&gt;();" description="new ArrayList&lt;&gt;()" toReformat="false" toShortenFQNames="true">
+    <variable name="al" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -89,6 +90,12 @@
     </context>
   </template>
   <template name="vlist" value="io.vavr.collection.List.ofAll($END$)" description="io.vavr.collection.List()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ll" value="var $ll$ = new LinkedList&lt;&gt;();" description="new LinkedList&lt;&gt;()" toReformat="false" toShortenFQNames="true">
+    <variable name="ll" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
