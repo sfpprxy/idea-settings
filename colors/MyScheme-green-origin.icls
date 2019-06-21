@@ -4,7 +4,7 @@
     <property name="created">2017-08-04T11:50:22</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.1.0.0</property>
-    <property name="modified">2019-06-20T16:16:54</property>
+    <property name="modified">2019-06-21T10:02:10</property>
     <property name="originalScheme">MyScheme-all-green</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -604,7 +604,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="b54c4c" />
+        <option name="FOREGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="f0c674" />
         <option name="ERROR_STRIPE_COLOR" value="5c412b" />
       </value>
     </option>
