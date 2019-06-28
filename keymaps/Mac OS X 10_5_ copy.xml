@@ -34,6 +34,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
@@ -57,6 +60,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta h" />
   </action>
   <action id="HippieCompletion" />
+  <action id="Macro.222">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
@@ -110,6 +116,9 @@
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift z" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
