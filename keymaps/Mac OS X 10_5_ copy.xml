@@ -40,7 +40,7 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
-  <action id="EditorMoveUpAndScrollWithSelection">
+  <action id="EditorScrollDownAndMove">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
   <action id="EditorScrollUpAndMove">
