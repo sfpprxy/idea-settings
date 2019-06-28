@@ -45,12 +45,15 @@
   </action>
   <action id="EditorScrollDownAndMove">
     <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="EditorScrollUpAndMove">
     <keyboard-shortcut first-keystroke="alt page_up" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="Exit" />
   <action id="FileChooser.GotoModule" />
+  <action id="GotoSuperMethod" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta caps_lock" />
@@ -60,9 +63,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta h" />
   </action>
   <action id="HippieCompletion" />
-  <action id="Macro.scroll down">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
@@ -119,6 +119,12 @@
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />

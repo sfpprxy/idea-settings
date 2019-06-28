@@ -19,31 +19,5 @@
       <action id="GotoAction" />
       <shortuct text="ENTER" />
     </macro>
-    <macro name="111">
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-    </macro>
-    <macro name="scroll down">
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-      <action id="EditorScrollDownAndMove" />
-    </macro>
   </component>
 </application>
