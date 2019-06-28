@@ -32,7 +32,15 @@
       <action id="EditorScrollDownAndMove" />
       <action id="EditorScrollDownAndMove" />
     </macro>
-    <macro name="222">
+    <macro name="scroll down">
+      <action id="EditorScrollDownAndMove" />
+      <action id="EditorScrollDownAndMove" />
+      <action id="EditorScrollDownAndMove" />
+      <action id="EditorScrollDownAndMove" />
+      <action id="EditorScrollDownAndMove" />
+      <action id="EditorScrollDownAndMove" />
+      <action id="EditorScrollDownAndMove" />
+      <action id="EditorScrollDownAndMove" />
       <action id="EditorScrollDownAndMove" />
       <action id="EditorScrollDownAndMove" />
       <action id="EditorScrollDownAndMove" />

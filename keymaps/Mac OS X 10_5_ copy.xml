@@ -60,7 +60,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta h" />
   </action>
   <action id="HippieCompletion" />
-  <action id="Macro.222">
+  <action id="Macro.scroll down">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="MakeModule">
