@@ -4,7 +4,7 @@
     <property name="created">2019-07-02T17:51:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-07-04T15:34:35</property>
+    <property name="modified">2019-08-26T17:10:20</property>
     <property name="originalScheme">MyScheme-green-origin copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -255,7 +255,7 @@
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="de935f" />
+        <option name="FOREGROUND" value="c5c8c6" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
