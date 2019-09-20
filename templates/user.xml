@@ -106,4 +106,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="psvm" value="public static void $FUNC$() {&#10;    $END$&#10;}" description="public static void $END$() {     $END$ }" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
