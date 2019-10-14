@@ -4,10 +4,7 @@
     <value />
   </option>
   <JavaCodeStyleSettings>
-    <option name="FIELD_NAME_SUFFIX" value="aa" />
-    <option name="STATIC_FIELD_NAME_SUFFIX" value="bb" />
-    <option name="PARAMETER_NAME_SUFFIX" value="cc" />
-    <option name="LOCAL_VARIABLE_NAME_SUFFIX" value="dd" />
+    <option name="PREFER_LONGER_NAMES" value="false" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
     <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
       <value />
