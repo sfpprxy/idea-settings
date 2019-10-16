@@ -43,6 +43,9 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
   <action id="EditorScrollDownAndMove">
     <keyboard-shortcut first-keystroke="alt page_down" />
     <keyboard-shortcut first-keystroke="meta down" />
