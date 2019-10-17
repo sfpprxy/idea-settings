@@ -7,13 +7,11 @@
     <keyboard-shortcut first-keystroke="meta v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateRunDashboardToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
