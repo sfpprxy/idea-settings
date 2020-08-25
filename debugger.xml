@@ -86,6 +86,7 @@
   <component name="XDebuggerSettings">
     <data-views>
       <option name="autoExpressions" value="false" />
+      <option name="showLibraryStackFrames" value="false" />
     </data-views>
     <general />
     <debuggers>
