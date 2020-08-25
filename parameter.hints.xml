@@ -6,5 +6,13 @@
       </blacklist>
     </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="TypeScript" />
+      <language id="JavaScript" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+      <language id="SQL" />
+    </disabledLanguages>
   </component>
 </application>
