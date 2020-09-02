@@ -5,6 +5,7 @@
         <option value="" />
         <option value="/usr/local/Cellar/go/1.10.3/libexec" />
         <option value="/usr/local/Cellar/go/1.10/libexec" />
+        <option value="C:\Go" />
       </set>
     </sdk-path>
   </component>
