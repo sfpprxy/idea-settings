@@ -4,7 +4,7 @@
     <property name="created">2019-07-02T17:51:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-11-08T14:23:27</property>
+    <property name="modified">2020-09-10T14:32:38</property>
     <property name="originalScheme">MyScheme-green-origin copy</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -238,7 +238,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="b294bb" />
+        <option name="FOREGROUND" value="e6be70" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -425,9 +425,6 @@
         <option name="FOREGROUND" value="81a2be" />
       </value>
     </option>
-    <option name="LUA_GLOBAL_VAR" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="LUA_LOCAL_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="LUA_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8647" />
