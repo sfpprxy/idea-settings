@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="ENABLE_MEMORY_AGENT" value="true" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="WATCH_RETURN_VALUES" value="true" />
     <filter>
