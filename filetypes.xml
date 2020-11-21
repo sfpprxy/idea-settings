@@ -1,26 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="javalog" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
-      <mapping pattern="数据模板表" type="PLAIN_TEXT" />
-      <mapping pattern=".a" type="PLAIN_TEXT" />
-      <mapping pattern="数据接入实例参数" type="PLAIN_TEXT" />
-      <mapping pattern="数据模型表" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="123123" type="PLAIN_TEXT" />
-      <mapping pattern="sendsms" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="sms" type="PLAIN_TEXT" />
+      <mapping pattern="数据接入实例参数" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="123123" type="PLAIN_TEXT" />
+      <mapping pattern="javalog" type="PLAIN_TEXT" />
+      <mapping pattern="数据模型表" type="PLAIN_TEXT" />
       <mapping pattern="restlog" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="数据模板表" type="PLAIN_TEXT" />
+      <mapping pattern="sendsms" type="PLAIN_TEXT" />
+      <mapping pattern=".a" type="PLAIN_TEXT" />
+      <mapping pattern="sms" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="fb-signin-button" type="Vue.js" />
     </extensionMap>
