@@ -18,7 +18,6 @@
       <mapping pattern="sms" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="manifest" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
