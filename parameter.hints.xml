@@ -4,6 +4,7 @@
       <blacklist language="Java">
         <added pattern="uyun.xianglong.app.utils.U.checkEmpty(varNames,objects)" />
       </blacklist>
+      <blacklist language="Kotlin" />
     </blacklists>
     <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
     <disabledLanguages>
@@ -12,6 +13,7 @@
       <language id="Angular2Html" />
       <language id="JavaScript" />
       <language id="kotlin" />
+      <language id="go" />
       <language id="Groovy" />
       <language id="SQL" />
     </disabledLanguages>

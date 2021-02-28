@@ -1,0 +1,57 @@
+<application>
+  <component name="GitCommitMessageHelperSettings">
+    <option name="dateSettings">
+      <DataSettings>
+        <option name="template" value="#if($type)${type}#end#if($scope)(${scope})#end: #if($subject)${subject}#end&#10;#if($body)${newline}${newline}${body}#end&#10;#if($changes)${newline}${newline}BREAKING CHANGE: ${changes}#end&#10;#if($closes)${newline}${newline}Closes ${closes}#end&#10;" />
+        <option name="typeAliases">
+          <list>
+            <TypeAlias>
+              <option name="title" value="feat" />
+              <option name="description" value="A new feature" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="fix" />
+              <option name="description" value="A bug fix" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="docs" />
+              <option name="description" value="Documentation only changes" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="style" />
+              <option name="description" value="Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="refactor" />
+              <option name="description" value="A code change that neither fixes a bug nor adds a feature" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="perf" />
+              <option name="description" value="A code change that improves performance" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="test" />
+              <option name="description" value="Adding missing tests or correcting existing tests" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="build" />
+              <option name="description" value="Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="ci" />
+              <option name="description" value="Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="chore" />
+              <option name="description" value="Other changes that don't modify src or test files" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="revert" />
+              <option name="description" value="Reverts a previous commit" />
+            </TypeAlias>
+          </list>
+        </option>
+      </DataSettings>
+    </option>
+  </component>
+</application>
